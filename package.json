@@ -1,0 +1,22 @@
+{
+  "name": "markme_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishaaal05/markme-backend.git"
+  },
+  "author": "Vishal Kr Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishaaal05/markme-backend/issues"
+  },
+  "homepage": "https://github.com/vishaaal05/markme-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
